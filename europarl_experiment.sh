@@ -15,8 +15,7 @@ cd -
 
 bash compile.sh
 
-# These setting of tuning parameters are described at
-#   https://www.reddit.com/r/MachineLearning/comments/40odr8/bilbowa_fast_bilingual_distributed/cywhsgj
+# See https://www.reddit.com/r/MachineLearning/comments/40odr8/bilbowa_fast_bilingual_distributed/cywhsgj
 time ./bin/bilbowa \
     -par-train1  ./corpus/europarl-v7.es-en.es.tokenized.500000 \
     -par-train2  ./corpus/europarl-v7.es-en.en.tokenized.500000 \
