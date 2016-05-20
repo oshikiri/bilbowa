@@ -1,3 +1,12 @@
+Change log
+-----
+
+* Add .gitignore
+* Add europarl_experiment.sh
+* Maybe fix [#2](https://github.com/gouwsmeister/bilbowa/issues/2)
+
+-----
+
 This is an open source implementation of the Bilingual Distributed
 Representations without Word Alignments method described in the
 paper cited below.
