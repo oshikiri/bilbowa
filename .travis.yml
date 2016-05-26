@@ -1,0 +1,10 @@
+language: c
+compiler:
+    - gcc
+os:
+    - osx
+    - linux
+install:
+    - bash compile.sh
+script:
+    - bash europarl_experiment.sh
