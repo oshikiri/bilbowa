@@ -4,6 +4,9 @@ Change log
 * Add .gitignore
 * Add europarl_experiment.sh
 * Maybe fix [#2](https://github.com/gouwsmeister/bilbowa/issues/2)
+* Add .travis.yml
+
+[![Build Status](https://travis-ci.org/oshikiri/bilbowa.svg?branch=develop)](https://travis-ci.org/oshikiri/bilbowa)
 
 -----
 
